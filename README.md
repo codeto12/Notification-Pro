@@ -1,2 +1,2 @@
-# Notification-Pro
-An Android app to create, schedule, and manage smart notifications
+# Reminder-Pro
+App to remind you.
